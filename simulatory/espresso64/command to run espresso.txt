@@ -1,0 +1,1 @@
+espresso -oeqntott vstup.txt > vystup.txt
