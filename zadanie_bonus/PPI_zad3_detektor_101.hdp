@@ -1,0 +1,16 @@
+[DesignChecker]
+PPI_zad3_detektor_101_lib = $HDS_PROJECT_DIR/PPI_zad3_detektor_101_lib/designcheck
+[ModelSim]
+PPI_zad3_detektor_101_lib = $HDS_PROJECT_DIR/PPI_zad3_detektor_101_lib/work
+[hdl]
+PPI_zad3_detektor_101_lib = $HDS_PROJECT_DIR/PPI_zad3_detektor_101_lib/hdl
+[hds]
+PPI_zad3_detektor_101_lib = $HDS_PROJECT_DIR/PPI_zad3_detektor_101_lib/hds
+[hds_settings]
+default_library = PPI_zad3_detektor_101_lib
+design_root = PPI_zad3_detektor_101_lib.detektor101_tb(struct)detektor101_tb/struct.bd
+version = 2
+[library_type]
+PPI_zad3_detektor_101_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
